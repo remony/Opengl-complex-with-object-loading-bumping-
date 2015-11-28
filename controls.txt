@@ -1,0 +1,25 @@
+_______________________________________
+|     Keys   |         Function       |
+|_____________________________________|
+|				Camera					              |
+|_____________________________________|
+|    Q, E    | Speed up/down gears    |
+|      R     | Reset Speed/position   |
+|  Up arrow  |      Look Up           |
+| Down arrow |      Look Down         |
+| Left arrow |      Look Left         |
+| Right arrow|      Look Right        |
+|    - / _   |       Zoom Out         |
+|    = / +   |       Zoom In          |
+|      A     |       Pan Left         |
+|      D     |       Pan Right        |
+|      S     |       Pan Down         |
+|      W     |       Pan Up           |
+|_____________________________________|
+|				Lights					              |
+|_____________________________________|
+|      J     |       Pan Left         |
+|      L     |       Pan Right        |
+|      K     |       Pan Down         |
+|      I     |       Pan Up           |
+|_____________________________________|
